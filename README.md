@@ -1,2 +1,2 @@
 # Netizen
-a colorscheme for internet girlies (and others) :3
+a colorscheme for internet girlies
