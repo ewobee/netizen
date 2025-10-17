@@ -5,7 +5,7 @@
 ## Neovim
 <img width=66% height=66% alt="image" src="https://github.com/user-attachments/assets/2e570feb-6868-407b-8e2d-edd0d523198f" />
 
-## Installing
+### Installing
 ### [lazy.nvim](https://lazy.folke.io/installation)
 **Structured Setup**
 
