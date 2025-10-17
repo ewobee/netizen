@@ -1,3 +1,3 @@
 # Netizen
 
-![palette](https://github.com/user-attachments/assets/07e1dd3f-9789-42e3-bc23-13473e7e22af)
+![palette](https://github.com/user-attachments/assets/ced3565f-7146-4252-80f8-823db5783f99)
