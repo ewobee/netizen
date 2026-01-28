@@ -33,13 +33,13 @@
     <td><img src="https://github.com/user-attachments/assets/4680d499-5db5-4896-96ff-dd65d75f0336" width="23"/></td>
 		<td>bg0_5</td>
 		<td><code>#13161A</code></td>
-    <td>Terminal Background</td>
+    <td align="center">Terminal Background</td>
 	</tr>
 	<b>
 		<td><img src="https://github.com/user-attachments/assets/c376c89a-d870-444a-80cf-e7a8e8b3a7e5" width="23"/></td>
 		<td><b>bg1</b></td>
 		<td><code><b>#181B1F</b></code></td>
-    <td><b>----- GUI Base -----</b></td>
+    <td align="center"><b>-- GUI Base --</b></td>
     <td><img src="https://github.com/user-attachments/assets/181dd671-4104-4e4b-88e8-74662aea13b9" width="23"/></td>
 		<td>bg1_5</td>
 		<td><code>#1D2025</code></td>
@@ -129,7 +129,7 @@
 		<td><img src="https://github.com/user-attachments/assets/cefb7adf-931c-447d-9984-a89636c2c13a" width="23"/></td>
 		<td><b>fg1</b></td>
 		<td><code><b>#C5C8C6</b></code></td>
-    <td><b>------- Text -------</b></td>
+    <td align="center"><b>-- Text --</b></td>
     <td><img src="https://github.com/user-attachments/assets/d67cb276-4bbf-4ab3-861b-478c2653b95f" width="23"/></td>
 		<td>fg0_5</td>
 		<td><code>#D5D6D5</code></td>
