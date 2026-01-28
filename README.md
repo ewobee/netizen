@@ -3,7 +3,7 @@
 
 <details>
 <summary><h2>Palette</h2></summary>
-<img width="841" height="200" alt="netizen palette" src="https://github.com/user-attachments/assets/efd5437a-6fac-4722-aa55-41c68487210d" />
+<img width="798" height="200" alt="netizen palette" src="https://github.com/user-attachments/assets/efd5437a-6fac-4722-aa55-41c68487210d" />
 <table>
 	<tr>
 		<th></th>
