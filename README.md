@@ -210,3 +210,7 @@
 
 ## Installing
 [Neovim](https://github.com/ewobee/netizen.nvim)
+
+[Firefox](https://addons.mozilla.org/en-US/firefox/addon/netizen/)
+
+[DuckDuckGo](https://duckduckgo.com/?kae=d&kar=1&kbj=1&k8=c5c8c6&kp=-2&kbg=-1&k21=23262B&kx=c5c8c6&k5=2&k1=-1&kaa=A27BA5&k9=95A6D7&k7=181B1F&kj=23262B&kbc=1&kbe=0&kax=v521-3)
