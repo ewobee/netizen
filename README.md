@@ -204,6 +204,13 @@
 		<td>hiMagenta</td>
 		<td><code>#C895CC</code></td>
     <td></td>
+	  
+  </tr>
+  <tr>
+    <td></td>
+		<td>Accent</td>
+		<td><code>#576283</code></td>
+    <td></td>
   </tr>
 </table>
 </details>
