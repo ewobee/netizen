@@ -3,7 +3,7 @@
 
 <details>
 <summary><h2>Palette</h2></summary>
-<img alt="netizen palette" src="assets/palette.svg" />
+<img width=100% alt="netizen palette" src="assets/palette.svg" />
 <table>
 	<tr>
 		<th></th>
