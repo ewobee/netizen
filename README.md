@@ -134,6 +134,14 @@
 		<td><code>oklch(0.23 0.035 325)</code></td>
 	</tr>
 	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
     <td><img src="assets/colors/on_surface.svg" width="23"></td>
     <td>On Surface<br><sub>Inverse Surface</sub></td>
 		<td><code>#d8e0de</code></td>
@@ -176,10 +184,10 @@
   <tr>
     <td><img src="assets/colors/surface.svg" width="23"></td>
     <td>Surface<br><sub>Surface Dim</sub></td>
-		<td><code>#181b1f</code></td>
+	<td><code>#181b1f</code></td>
     <td><code>rgb(24, 27, 31)</code></td>
     <td><code>hsl(213.92 12.77% 10.71%)</code></td>
-		<td><code>oklch(0.22 0.009 255)</code></td>
+	<td><code>oklch(0.22 0.009 255)</code></td>
   </tr>
 	<tr>
 		<td></td>
